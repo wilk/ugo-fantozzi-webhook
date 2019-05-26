@@ -1,0 +1,28 @@
+{
+  "name": "buxfer-assistant",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index",
+    "proxy": "ngrok http 3000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "actions-on-google": "^2.7.0",
+    "body-parser": "^1.19.0",
+    "dayjs": "^1.8.14",
+    "dialogflow-fulfillment": "^0.6.1",
+    "dotenv": "^8.0.0",
+    "express": "^4.17.0",
+    "got": "^9.6.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "ngrok": "^3.1.1",
+    "nodemon": "^1.19.1"
+  }
+}

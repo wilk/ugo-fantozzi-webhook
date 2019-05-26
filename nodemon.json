@@ -1,0 +1,11 @@
+{
+  "verbose": false,
+  "ignore": [
+    "node_modules"
+  ],
+  "env": {
+    "BABEL_DISABLE_CACHE": 1
+  },
+  "ext": ".js,.json",
+  "watch": "./"
+}
