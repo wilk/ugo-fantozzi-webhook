@@ -1,12 +1,15 @@
 {
-  "extends": "airbnb",
-  "parser": "babel-eslint",
+  "extends": "airbnb/base",
   "env": {
     "node": true
   },
   "rules": {
     "arrow-parens": [
       0
+    ],
+    "max-len": [
+      2,
+      200
     ]
   }
 }
