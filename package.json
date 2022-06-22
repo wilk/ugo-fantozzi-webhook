@@ -18,7 +18,7 @@
     "dotenv": "^8.0.0",
     "express": "^4.17.0",
     "firebase-functions": "^2.3.1",
-    "got": "^9.6.0"
+    "got": "^11.8.5"
   },
   "devDependencies": {
     "eslint": "^5.16.0",
