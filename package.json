@@ -16,7 +16,7 @@
     "dayjs": "^1.8.14",
     "dialogflow-fulfillment": "^0.6.1",
     "dotenv": "^8.0.0",
-    "express": "^4.17.0",
+    "express": "^4.17.3",
     "firebase-functions": "^2.3.1",
     "got": "^9.6.0"
   },
